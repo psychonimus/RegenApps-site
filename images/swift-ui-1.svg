@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="75" cy="75" r="75" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.498" cy="-0.044" r="1.511" gradientTransform="translate(0 -0.017) scale(1 0.604)" gradientUnits="objectBoundingBox">
+      <stop offset="0.202" stop-color="#27f5f1"/>
+      <stop offset="0.29" stop-color="#25e2ee"/>
+      <stop offset="0.468" stop-color="#20b1e7"/>
+      <stop offset="0.717" stop-color="#1963db"/>
+      <stop offset="0.857" stop-color="#1434d4"/>
+      <stop offset="1" stop-color="#0015b5"/>
+    </radialGradient>
+    <clipPath id="clip-swift_ui">
+      <rect width="150" height="150"/>
+    </clipPath>
+  </defs>
+  <g id="swift_ui" data-name="swift ui" clip-path="url(#clip-swift_ui)">
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <g id="icons8-swiftui" transform="translate(-6 -6)">
+        <path id="Path_115446" data-name="Path 115446" d="M123.7,156H38.3A32.3,32.3,0,0,1,6,123.7V78.788L68.5,6h55.2A32.3,32.3,0,0,1,156,38.3v85.4A32.3,32.3,0,0,1,123.7,156Z" transform="translate(0 0)" fill="url(#radial-gradient)"/>
+        <path id="Path_115447" data-name="Path 115447" d="M68.5,6,6,78.787c18.021,23.963,61.721,40.75,90.367,14.45C113.033,72.4,103.4,38.287,90.9,27.092,84.617,21.467,77.1,13.375,68.5,6Z" transform="translate(0 0)" fill="#1a5cf9"/>
+        <path id="Path_115448" data-name="Path 115448" d="M68.5,6,6,71.346v7.442c21.162,16.471,54.187,22.958,77.346,1.692,16.667-20.833,7.033-54.95-5.471-66.146C75.221,11.958,72.033,9.063,68.5,6Z" transform="translate(0 0)" fill="#21aaf5"/>
+        <path id="Path_115449" data-name="Path 115449" d="M6,57.987V71.346c19.525,8.229,42.979,8.192,60.679-8.054C80.112,46.5,76.971,21.092,68.5,6H55.375Z" transform="translate(0 0)" fill="#25e0f2"/>
+        <path id="Path_115450" data-name="Path 115450" d="M38.3,6A32.3,32.3,0,0,0,6,38.3V57.987c14.483,1.592,29.4-1.913,41.579-13.1C56.408,33.85,57.829,19.1,55.375,6H38.3Z" transform="translate(0 0)" fill="#18ffff"/>
+        <path id="Path_115451" data-name="Path 115451" d="M20.67,25.624S49.141,68.653,73.079,83.207C64.02,86.12,44.354,98.02,10.062,76.991c8.733,11.971,24.2,35.979,62.046,33.717,13.262-.646,21.35-4.854,28.792-7.762s14.558-2.588,20.7,8.412c1.3-10.029,1.617-19.412-8.733-30.088,0,0,10.233-39.012-33.337-69.8,9.058,18.117,14.3,28.333,10.046,53.3-9.7-6.471-45.546-35.333-53.633-44.717,5.825,10.354,22.579,33.067,28.4,38.892C54,51.828,20.67,25.624,20.67,25.624Z" transform="translate(12.863 17.334)"/>
+      </g>
+    </g>
+  </g>
+</svg>

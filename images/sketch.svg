@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-sketch">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="sketch" clip-path="url(#clip-sketch)">
+    <g id="Group_20177" data-name="Group 20177" transform="translate(2 5)">
+      <path id="Path_111426" data-name="Path 111426" d="M9.451,1.279,21.658,0,33.867,1.279l9.452,12.572L21.659,38.844,0,13.851Z" fill="#fdb300" fill-rule="evenodd"/>
+      <path id="Path_111427" data-name="Path 111427" d="M8.773,0,21.659,24.842,0,0Z" transform="translate(0 14.002)" fill="#ea6c00" fill-rule="evenodd"/>
+      <path id="Path_111428" data-name="Path 111428" d="M8.772,24.842,21.659,0,0,24.842Z" transform="translate(43.32 38.844) rotate(180)" fill="#ea6c00" fill-rule="evenodd"/>
+      <path id="Path_111429" data-name="Path 111429" d="M0,0H25.72L12.86,24.842Z" transform="translate(8.577 14.002)" fill="#fdad00" fill-rule="evenodd"/>
+      <path id="Path_111430" data-name="Path 111430" d="M12.635,0,.665,1.293,0,14Z" transform="translate(8.577)" fill="#fdd231" fill-rule="evenodd"/>
+      <path id="Path_111431" data-name="Path 111431" d="M12.635,14,.665,12.71,0,0Z" transform="translate(34.29 14.002) rotate(180)" fill="#fdd231" fill-rule="evenodd"/>
+      <path id="Path_111432" data-name="Path 111432" d="M0,0,9.476,12.647,8.8,0Z" transform="translate(43.32 14.002) rotate(180)" fill="#fdad00" fill-rule="evenodd"/>
+      <g id="Group_20082" data-name="Group 20082" transform="translate(0 1.355)">
+        <path id="Path_111433" data-name="Path 111433" d="M0,12.647,9.476,0,8.8,12.647Z" transform="translate(0 0)" fill="#fdad00" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_20083" data-name="Group 20083" transform="translate(8.577)">
+        <path id="Path_111434" data-name="Path 111434" d="M12.86,0,0,14H25.72Z" transform="translate(0)" fill="#feeeb7" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <clipPath id="m7nubnppqa">
+            <path data-name="Rectangle 7708" d="M0 0h48v48H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="04_fitness" style="clip-path:url(#m7nubnppqa)">
+        <g data-name="Layer 5">
+            <path data-name="Path 115450" d="M30 25.333A7.333 7.333 0 1 1 22.667 18 7.333 7.333 0 0 1 30 25.333zM42 14v22.667a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V14a4 4 0 0 1 4-4h32a4 4 0 0 1 4 4zm-30.667 2.667a2.667 2.667 0 1 0-2.667 2.667 2.667 2.667 0 0 0 2.667-2.667zm21.333 8.667a10 10 0 1 0-10 10 10 10 0 0 0 10-10zm-3.333-18A1.333 1.333 0 0 0 28 6H16a1.333 1.333 0 0 0 0 2.667h12a1.333 1.333 0 0 0 1.333-1.334z" style="fill:#555" transform="translate(2 .745)"/>
+        </g>
+    </g>
+</svg>

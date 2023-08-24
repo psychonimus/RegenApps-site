@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_7972" data-name="Rectangle 7972" width="48" height="48" transform="translate(1)"/>
+    </clipPath>
+  </defs>
+  <g id="progressive_web_apps" data-name="progressive web apps" transform="translate(-1)" clip-path="url(#clip-path)">
+    <g id="Group_20206" data-name="Group 20206" transform="translate(822.5 -1032.843)">
+      <path id="Path_111671" data-name="Path 111671" d="M193.271,93.185l-1.735-4.857,1.954-4.94,5.989,15.9h-4.162l-1.025-2.852-.056-.154h-5.848l1.1-2.792h3.889Z" transform="translate(-974.979 965.881)" fill="#212121" stroke="#212121" stroke-width="1"/>
+      <path id="Path_111672" data-name="Path 111672" d="M144.274,88.779l2.238,4.437.253.5.175-.535L150.421,82.5h3.108l3.241,10.679.186.61.25-.587,4.568-10.708h3.988L159.184,98.81h-4.1l-2.994-9.561-.219-.691-.225.687-3.141,9.564h-4.112l-2.17-3.725,2.049-6.312Z" transform="translate(-950.245 966.357)" fill="#6600ed"/>
+      <path id="Path_111673" data-name="Path 111673" d="M121.525,93.057h-.232v5.76H117.5V82.5h6.715a5.526,5.526,0,0,1,4.328,1.626h0a4.681,4.681,0,0,1,.437.562l-1.967,6.047-.676,2.083a8.071,8.071,0,0,1-2.053.239h-2.762Zm-.232-3.023v.232h1.829a2.963,2.963,0,0,0,2.308-.744,2.591,2.591,0,0,0,.586-1.773,2.426,2.426,0,0,0-.668-1.782,3.049,3.049,0,0,0-2.214-.673h-1.84v4.74Z" transform="translate(-937 966.356)" fill="#212121" stroke="#212121" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

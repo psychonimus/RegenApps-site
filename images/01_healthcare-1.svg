@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-_01_healthcare">
+      <rect width="120" height="120"/>
+    </clipPath>
+  </defs>
+  <g id="_01_healthcare" data-name="01_healthcare" clip-path="url(#clip-_01_healthcare)">
+    <g id="heartbeat" transform="translate(4.897 -21)">
+      <g id="Group_20216" data-name="Group 20216" transform="translate(0 33)">
+        <g id="Group_20215" data-name="Group 20215" transform="translate(0 0)">
+          <path id="Path_114655" data-name="Path 114655" d="M80.933,33C67.876,33,59.5,42.043,55.1,50.187,50.711,42.043,42.33,33,29.274,33,12.708,33,0,46.441,0,64.268A33.552,33.552,0,0,0,2.646,77.341H27.278l5.565-11.13a3.362,3.362,0,0,1,5.776,0L48.646,86.264l3.569-7.138a3.362,3.362,0,0,1,5.776,0l3.569,7.138L71.587,66.211a3.362,3.362,0,0,1,5.776,0l5.565,11.13H107.56a33.552,33.552,0,0,0,2.646-13.072C110.206,46.441,97.5,33,80.933,33Z" transform="translate(0 -33)" fill="#555"/>
+        </g>
+      </g>
+      <g id="Group_20218" data-name="Group 20218" transform="translate(6.035 74.875)">
+        <g id="Group_20217" data-name="Group 20217" transform="translate(0 0)">
+          <path id="Path_114656" data-name="Path 114656" d="M102.935,236.468a3.23,3.23,0,0,1-2.888-1.785l-3.569-7.138L86.451,247.6a3.229,3.229,0,0,1-5.776,0l-3.569-7.138L73.536,247.6a3.362,3.362,0,0,1-5.776,0L57.733,227.545l-3.569,7.138a3.23,3.23,0,0,1-2.888,1.785H28.037c6.645,10.455,18.613,20.387,33.584,33.022,4.2,3.547,8.674,7.321,13.369,11.392a3.233,3.233,0,0,0,4.231,0c4.695-4.071,9.166-7.845,13.369-11.392,14.971-12.635,26.938-22.566,33.584-33.022Z" transform="translate(-28.037 -227.545)" fill="#555"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

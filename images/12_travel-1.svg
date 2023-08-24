@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-_12_travel">
+      <rect width="120" height="120"/>
+    </clipPath>
+  </defs>
+  <g id="_12_travel" data-name="12_travel" clip-path="url(#clip-_12_travel)">
+    <g id="suitcase" transform="translate(12 -14.353)">
+      <g id="Group_20232" data-name="Group 20232" transform="translate(0 30)">
+        <path id="Path_114717" data-name="Path 114717" d="M0,0H11.294V5.647H0Z" transform="matrix(0.968, -0.25, 0.25, 0.968, 48.194, 38.152)" fill="#555"/>
+        <path id="Path_114718" data-name="Path 114718" d="M11.015,120A11.027,11.027,0,0,0,0,131.015V176.75a11.027,11.027,0,0,0,11.015,11.015h5.926V120Z" transform="translate(0 -103.059)" fill="#555"/>
+        <path id="Path_114719" data-name="Path 114719" d="M170.824,46.941H159.912l-2.647-11.91A6.385,6.385,0,0,0,150.994,30H139.829a6.385,6.385,0,0,0-6.271,5.031l-2.647,11.911H120v67.765h50.824ZM139.071,36.255a.772.772,0,0,1,.758-.608h11.165a.772.772,0,0,1,.758.608l2.375,10.686H136.7Z" transform="translate(-97.412 -30)" fill="#555"/>
+        <circle id="Ellipse_4416" data-name="Ellipse 4416" cx="3.765" cy="3.765" r="3.765" transform="translate(33.882 60.235)" fill="#555"/>
+        <path id="Path_114720" data-name="Path 114720" d="M425.926,120H420v67.765h5.926a11.027,11.027,0,0,0,11.015-11.015V131.015A11.027,11.027,0,0,0,425.926,120Z" transform="translate(-340.941 -103.059)" fill="#555"/>
+      </g>
+    </g>
+  </g>
+</svg>

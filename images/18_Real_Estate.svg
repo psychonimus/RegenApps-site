@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-_18_Real_Estate">
+      <rect width="120" height="120"/>
+    </clipPath>
+  </defs>
+  <g id="_18_Real_Estate" data-name="18_Real_Estate" clip-path="url(#clip-_18_Real_Estate)">
+    <path id="building" d="M91.667,93.333V82.925A6.8,6.8,0,0,0,95,76.667C95,72.985,92.762,70,90,70s-5,2.985-5,6.667a6.8,6.8,0,0,0,3.333,6.258V93.333H76.667V42.7l-10-5v8.97h5V50h-5v6.667h5V60h-5v6.667h5V70h-5v6.667h5V80h-5v6.667h5V90h-5v3.333H63.333V26.257l-20-5.713v6.123H55V30H43.333v6.667H55V40H43.333v6.667H55V50H43.333v6.667H55V60H43.333v6.667H55V70H43.333v6.667H55V80H43.333v6.667H55V90H43.333v3.333H40V0H10V6.667H25V10H10v6.667H25V20H10v6.667H25V30H10v6.667H25V40H10v6.667H25V50H10v6.667H25V60H10v6.667H25V70H10v6.667H25V80H10v6.667H25V90H10v3.333H0v3.333H100V93.333Zm0,0" transform="translate(10 12)" fill="#555"/>
+  </g>
+</svg>

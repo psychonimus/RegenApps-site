@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="75" cy="75" r="75" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-reactive_cocoa">
+      <rect width="150" height="150"/>
+    </clipPath>
+  </defs>
+  <g id="reactive_cocoa" data-name="reactive cocoa" clip-path="url(#clip-reactive_cocoa)">
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <g id="Rectangle_7809" data-name="Rectangle 7809" transform="translate(-15 -11)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="181" height="173" stroke="none"/>
+        <rect x="0.5" y="0.5" width="180" height="172" fill="none"/>
+      </g>
+      <g id="Layer_x0020_1" transform="translate(20.422 32.84)">
+        <g id="_2268429444192" transform="translate(0.949)">
+          <path id="Path_115459" data-name="Path 115459" d="M78.1,95.958c-1.215-1.121-7.44-12.731-8.76-15.125-2.78-5.011-5.513-10.045-8.4-15.1-2.967-5.2-5.735-10.068-8.573-15.3C51.045,48,49.3,45.4,48.078,42.779a6.8,6.8,0,0,1-.642-4.66,3.369,3.369,0,0,1,1.075-1.8L50.274,35c-9.507,0-10.687,6.868-15.768,15.324-8.725,14.506-20.638,36.558-29.2,51.964-1.11,1.986-3.691,5.968-4.1,7.849-2.441,11.178,13.046,8.491,22.1,8.491H69.452c7.907,0,21.958,1.577,14.285-12.638-1.88-3.492-3.878-6.611-5.63-10.056Z" transform="translate(-0.949 -34.591)" fill="#8ad677" fill-rule="evenodd"/>
+          <path id="Path_115460" data-name="Path 115460" d="M3995.412,61.366c1.122-.771,1.063-1.332,1.787-2.721l8.492-15c2.838-4.917,19.248-33.346,19.728-36.348C4026.189,2.441,4022.6.607,4018,0h-13.525l-36.138.082c-1.168.269-.269-.105-.759.327l-1.764,1.32a3.439,3.439,0,0,0-1.075,1.8,6.8,6.8,0,0,0,.643,4.66c1.227,2.616,2.955,5.221,4.287,7.65,2.838,5.233,5.606,10.091,8.573,15.3,2.885,5.046,5.618,10.08,8.4,15.1,1.32,2.394,7.545,14,8.76,15.126Z" transform="translate(-3918.266)" fill="#3ba175" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

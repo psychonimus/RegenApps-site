@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-azure">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="azure" clip-path="url(#clip-azure)">
+    <g id="Group_20186" data-name="Group 20186" transform="translate(4 9)">
+      <path id="path7291" d="M40.844,12.347,35.022,24.072,45.271,35.95,26.249,38.11l29.517.309L40.844,12.347Z" transform="translate(-16.411 -7.719)" fill="#0089d6" fill-rule="evenodd"/>
+      <path id="path7293" d="M23.285,0,9.921,11.184,0,27.922l8.445-.849Z" fill="#0089d6" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

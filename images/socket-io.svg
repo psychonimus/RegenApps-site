@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="75" cy="75" r="75" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-socket_io">
+      <rect width="150" height="150"/>
+    </clipPath>
+  </defs>
+  <g id="socket_io" data-name="socket io" clip-path="url(#clip-socket_io)">
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <g id="Rectangle_7809" data-name="Rectangle 7809" transform="translate(-15 -11)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="181" height="173" stroke="none"/>
+        <rect x="0.5" y="0.5" width="180" height="172" fill="none"/>
+      </g>
+      <g id="Group_69277" data-name="Group 69277" transform="translate(-7.281 -10.147)">
+        <path id="Path_115458" data-name="Path 115458" d="M90.323,98.6c17.923-14.643,35.454-29.793,53.767-44.006-9.606,14.76-19.484,29.324-29.09,44.083-8.239.039-16.477.039-24.677-.078Zm15.15,8.16c8.278,0,16.516,0,24.755.117-18.039,14.564-35.493,29.831-53.845,44.005,9.606-14.76,19.484-29.363,29.09-44.123Z" transform="translate(-27.956 -17.591)" fill="#010101"/>
+      </g>
+    </g>
+  </g>
+</svg>

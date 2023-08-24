@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-figma">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="figma" clip-path="url(#clip-figma)">
+    <g id="figma-2" data-name="figma" transform="translate(-72.734 6)">
+      <path id="Path_111700" data-name="Path 111700" d="M256.6,176.691a6.024,6.024,0,1,1,6.024,6.024A6.024,6.024,0,0,1,256.6,176.691Z" transform="translate(-159.732 -158.619)" fill="#00bcff"/>
+      <path id="Path_111701" data-name="Path 111701" d="M85.932,325.044a6.024,6.024,0,0,1,6.024-6.024l3.21-1.695,2.814,1.695v6.024a6.024,6.024,0,0,1-12.048,0Z" transform="translate(-1.113 -294.924)" fill="#00cf7f"/>
+      <path id="Path_111702" data-name="Path 111702" d="M213.443,0l-3.278,5.695,3.278,6.353h5.939a6.024,6.024,0,1,0,0-12.048Z" transform="translate(-116.576)" fill="#ff7361"/>
+      <path id="Path_111703" data-name="Path 111703" d="M84.734,6.024a6.024,6.024,0,0,0,6.024,6.024l3.2,1.234,2.913-1.234V0H90.758A6.024,6.024,0,0,0,84.734,6.024Z" fill="#ff4d12"/>
+      <path id="Path_111704" data-name="Path 111704" d="M85.932,176.69a6.024,6.024,0,0,0,6.024,6.024H97.98V170.666H91.956A6.024,6.024,0,0,0,85.932,176.69Z" transform="translate(-1.113 -158.618)" fill="#b659ff"/>
+    </g>
+  </g>
+</svg>
